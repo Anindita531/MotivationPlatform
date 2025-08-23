@@ -16,4 +16,4 @@ $newQuote = [
 $quotes[] = $newQuote;
 file_put_contents('quotes.json', json_encode($quotes, JSON_PRETTY_PRINT));
 header("Location: index.php");
-exit;
+exit;
