@@ -2,4 +2,4 @@ A simple platform of quotes where anyone can add their thoughts ,view motivation
 Mainly CRUD operation(CREATE,READ,UPDATE,REMOVE):
 Tech used:Xamp,Apache,PHP,css,phpmyadmin
 Deployment :Infinitefreehosting
-Live: https://be-motivated.gamer.gd/?i=1
+
